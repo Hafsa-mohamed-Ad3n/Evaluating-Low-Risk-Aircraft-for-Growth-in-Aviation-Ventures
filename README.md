@@ -71,7 +71,6 @@ I created an interactive Tableau dashboard to present the results of the analysi
 
 [View the Tableau Dashboard](https://public.tableau.com/app/profile/hafsa.mohammed.aden/viz/AviationAnalysisVisualization/Dashboard11)
 
-[PDF of Dashboard](./Dashboard.pdf)
 ![Dashboard Image](Images/Dashboard.jpg)
 
 
