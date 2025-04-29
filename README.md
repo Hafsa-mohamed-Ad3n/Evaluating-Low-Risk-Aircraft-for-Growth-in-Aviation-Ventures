@@ -69,9 +69,13 @@ For a detailed breakdown of the analysis, please refer to the full notebook: [Av
 ## Key Findings & Results
 I created an interactive Tableau dashboard to present the results of the analysis in a clear and accessible way.
 
-🔗 [View the Tableau Dashboard](https://public.tableau.com/app/profile/hafsa.mohammed.aden/viz/AviationAnalysisVisualization/Dashboard11)
+[View the Tableau Dashboard](https://public.tableau.com/app/profile/hafsa.mohammed.aden/viz/AviationAnalysisVisualization/Dashboard11)
 
-📄 [PDF of Dashboard](./Dashboard.pdf)
+[PDF of Dashboard](./Dashboard.pdf)
+![Dashboard Image](Images/Dashboard.jpg)
+
+
+
 
 ### Observations:
 
@@ -104,7 +108,7 @@ The analysis of historical aviation data has provided valuable insights into air
 
 However, the results are influenced by missing or unreliable data, such as unknown weather conditions, and external factors like the phase of the accident (takeoff or landing), which may be linked to pilot actions rather than the aircraft itself.
 
-If you have any suggestions or inquiries on how to improve this analysis, you can connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/hafsa-m-aden-330451223/). I am open to feedback and would love to discuss ways to refine and enhance the analysis further.
+If you have any suggestions or inquiries on how to improve this analysis, you can connect with me on [LinkedIn](https://www.linkedin.com/in/hafsa-m-aden-330451223/). I am open to feedback and would love to discuss ways to refine and enhance the analysis further.
 
 
 
