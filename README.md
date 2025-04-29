@@ -57,13 +57,13 @@ To assess the **severity and patterns of aircraft accidents**, we performed the 
   - Trends in fatalities and uninjured passengers over the years
 
 I also analyzed factors that influence aircraft safety:
-- **Engine reliability**: by assessing the frequency and severity of accidents across different engine types (Turbo Prop vs. Turbo Fan).
-- **Aircraft configuration**: including make, model, registration number, engine type, and number of engines.
-- **Purpose of flight**: understanding whether certain flight types (business, personal) are associated with higher accident risks.
+- Engine reliability: by assessing the frequency and severity of accidents across different engine types (Turbo Prop vs. Turbo Fan).
+- Aircraft configuration: including make, model, registration number, engine type, and number of engines.
+- Purpose of flight: understanding whether certain flight types (business, personal) are associated with higher accident risks.
 
-I also explored accident counts per **Make & Model** combinations to determine which aircraft were most frequently involved in accidents, especially those with fatal outcomes. This helped identify models associated with higher risk profiles.
+I also explored accident counts per Make & Model combinations to determine which aircraft were most frequently involved in accidents, especially those with fatal outcomes. This helped identify models associated with higher risk profiles.
 
-For a detailed breakdown of the analysis, please refer to the full notebook: [Aviation.ipynb](./Aviation.ipynb)
+For a detailed breakdown of the analysis, please refer to the full notebook: [Aviation.ipynb](https://github.com/Hafsa-mohamed-Ad3n/Evaluating-Low-Risk-Aircraft-for-Growth-in-Aviation-Ventures/blob/main/aviation.ipynb)
 
 
 
